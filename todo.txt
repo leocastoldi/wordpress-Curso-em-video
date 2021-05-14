@@ -1,1 +1,5 @@
-Criar 
+[] Criar repositorio no Git
+[] Copiar pastas
+[] Definir projeto
+[]Copiar as aulas para todo
+[]
