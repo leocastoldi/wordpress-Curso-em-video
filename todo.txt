@@ -4,8 +4,8 @@
 [X]Copiar as aulas para todo
 [X]TRAILER - Curso WordPress Profissional
 [X] Aula 0 - Como vai ser o site que criaremos com WordPress? - Curso WordPress #00
-[] Aula 1 - Evolução do WordPress
-[] aula 1b- Evolução do WordPress
+[X] Aula 1 - Evolução do WordPress
+[X] aula 1b- Evolução do WordPress
 [] Aula 2
 [] Aula 3
 [] Aula 4
