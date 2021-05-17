@@ -6,8 +6,8 @@
 [X] Aula 0 - Como vai ser o site que criaremos com WordPress? - Curso WordPress #00
 [X] Aula 1 - Evolução do WordPress
 [X] aula 1b- Evolução do WordPress
-[] Aula 2
-[] Aula 3
+[X] Aula 2 - Mitos e verdades
+[*] Aula 3 - Preparando o Ambiente
 [] Aula 4
 [] Aula 5
 [] Aula 6
