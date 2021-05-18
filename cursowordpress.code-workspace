@@ -10,5 +10,7 @@
 			"path": "..\\tonetto e diegoli"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
 }
