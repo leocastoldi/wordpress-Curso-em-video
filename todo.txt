@@ -7,8 +7,8 @@
 [X] Aula 1 - Evolução do WordPress
 [X] aula 1b- Evolução do WordPress
 [X] Aula 2 - Mitos e verdades
-[*] Aula 3 - Preparando o Ambiente
-[] Aula 4
+[X] Aula 3 - Ferramentas uteis para desenvolvedores
+[] Aula 4 -  Preparando Ambiente para Wordpress
 [] Aula 5
 [] Aula 6
 [] Aula 7
