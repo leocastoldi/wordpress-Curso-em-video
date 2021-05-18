@@ -9,36 +9,33 @@
 [X] Aula 2 - Mitos e verdades
 [X] Aula 3 - Ferramentas uteis para desenvolvedores
 [] Aula 4 -  Preparando Ambiente para Wordpress
-[] Aula 5
-[] Aula 6
-[] Aula 7
-[] Aula 8
-[] Aula 9
-[] Aula 10
-[] Aula 11
-[] Aula 12
-[] Aula 13
-[] Aula 14
-[] Aula 15
-[] Aula 16
-[] Aula 17
-[] Aula 18
-[] Aula 19
-[] Aula 20
-[] Aula 21
-[] Aula 22
-[] Aula 23
-[] Aula 24
-[] Aula 25
-[] Aula 26
-[] Aula 27
-[] Aula 28
-[] Aula 29
-[] Aula 30
-[] Aula 31
-[] Aula 32
-[] Aula 33
-[] Aula 34
-[] Aula 35
-[] Aula 36
-[] Aula 37
+[] Aula 5 -  Instalando Wordpress no pc
+[] Aula 6 -  instalando wordpress manualmente no pc
+[] Aula 7 -  Instalando wordpress automaticamente no pc
+[] Aula 8 -  Instalando Temas e plugins
+[] Aula 9 -  Configurações importantes
+[] Aula 10 - Painel Controle WordPress
+[] Aula 11 - Como Definir paletas de cores do seu site
+[] Aula 12 - Como definir fonte do seu site
+[] Aula 13 - Grande dicas para imagens em sites
+[] Aula 14 - Html basico para Wordpress
+[] Aula 15 - Menus no Wordpress
+[] Aula 16a -Topo e Rodapé
+[] Aula 16b - Topo e Rodapé
+[] Aula 17 -  Destaques do site
+[] Aula 18 -  Colunas e Caixas
+[] Aula 19 -  Seção de Cardapio 
+[] Aula 20 -  Seção de depoimento
+[] Aula 01 -  Plantão tira duvida
+[] Aula 21 -  Rodapé personalizado
+[] Aula 22 -  Rodapé do Astra
+[] Aula 23 -  Microthemer personalize seu CSS
+[] Aula 24 -  Formulários no Wordpress
+[] Aula 25 -  Criando pagina de contato
+[] Aula 26 -  Posts no Wordpress
+[] Aula 27 -  Pagina de noticias
+[] Aula 28 -  Paginas internas
+[] Aula 29 -  Responsividade do site
+[] Aula 30 -  Modelos do Astra
+[] Aula 31 -  Criando um Gravatar no wordpress
+[] Aula 32 -  Fim do Modulo 1
