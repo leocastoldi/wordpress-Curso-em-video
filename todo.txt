@@ -10,9 +10,9 @@
 [X] Aula 3 - Ferramentas uteis para desenvolvedores
 [X] Aula 4 -  Preparando Ambiente para Wordpress fazer na proxima maquina como servidor
 [x] Aula 5 -  Instalando Wordpress no pc
-[] Aula 6 -  instalando wordpress manualmente no pc
-[] Aula 7 -  Instalando wordpress automaticamente no pc
-[] Aula 8 -  Instalando Temas e plugins
+[X] Aula 6 -  instalando wordpress manualmente no pc
+[X] Aula 7 -  Instalando wordpress automaticamente no pc
+[X] Aula 8 -  Instalando Temas e plugins
 [] Aula 9 -  Configurações importantes
 [] Aula 10 - Painel Controle WordPress
 [] Aula 11 - Como Definir paletas de cores do seu site
