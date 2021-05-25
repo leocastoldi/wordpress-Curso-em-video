@@ -7,11 +7,19 @@
 [X] Aula 1 - Evolução do WordPress
 [X] aula 1b- Evolução do WordPress
 [X] Aula 2 - Mitos e verdades
+<<<<<<< HEAD
 [X] Aula 3 - Ferramentas uteixs para desenvolvedores
 [X] Aula 4 -  Preparando Ambiente para Wordpress
 [X] Aula 5 -  Instalando Wordpress no pc
 [X] Aula 6 -  instalando wordpress manualmente no pc
 [X] Aula 7 -  Instalando wordpress automaticamente no pc
+=======
+[X] Aula 3 - Ferramentas uteis para desenvolvedores
+[X] Aula 4 -  Preparando Ambiente para Wordpress fazer na proxima maquina como servidor
+[x] Aula 5 -  Instalando Wordpress no pc
+[] Aula 6 -  instalando wordpress manualmente no pc
+[] Aula 7 -  Instalando wordpress automaticamente no pc
+>>>>>>> 59a11e1261d2f1b208363dbee3c0df7ac453783f
 [] Aula 8 -  Instalando Temas e plugins
 [] Aula 9 -  Configurações importantes
 [] Aula 10 - Painel Controle WordPress
