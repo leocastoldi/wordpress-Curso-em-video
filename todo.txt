@@ -13,7 +13,7 @@
 [X] Aula 6 -  instalando wordpress manualmente no pc
 [X] Aula 7 -  Instalando wordpress automaticamente no pc
 [X] Aula 8 -  Instalando Temas e plugins
-[] Aula 9 -  Configurações importantes
+[X] Aula 9 -  Configurações importantes
 [] Aula 10 - Painel Controle WordPress
 [] Aula 11 - Como Definir paletas de cores do seu site
 [] Aula 12 - Como definir fonte do seu site
