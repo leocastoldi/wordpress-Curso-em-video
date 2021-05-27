@@ -1,0 +1,29 @@
+Passo a passo para a criação de sites gratuitos pelo wordpress seguindo o curso do Curso em Video.
+  1° Criar email da conta do site
+    ° Salvar dados do email e outras senhas do cliente para futuro acessos
+    ° Criar perfil no Crhome para salvar dados do cliente e navegar pelas paginas do site
+  2° Criar instalação do Wordpress
+     ° Favoritar pagina de controle do site
+  3° Instalar tema
+   ° Astra
+  4° Instalar tema filho
+    °https://wpastra.com/child-theme-generator/
+  5° Instalando plugins
+    ° Astra Widgets
+    ° Classic Editor 
+      - Mudar para edição de blocos e deixar "sim" para escolher o editor que deseja.
+    ° Companion Auto Update
+    ° EWWW Image Optimizer
+    ° Google Analytics for WordPress by MonsterInsights
+    ° WordPress Importer
+    ° Microthemer
+    ° Rank Math SEO
+    ° Really Simple SSL
+    ° Ultimate Addons for Gutenberg
+    ° UpdraftPlus - Backup/Restore
+    ° WP Mail SMTP
+    ° WP Super Cache
+    ° WPForms Lite
+    ° WPS Hide Login
+   
+  
