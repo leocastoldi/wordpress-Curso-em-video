@@ -15,7 +15,7 @@
 [X] Aula 8 -  Instalando Temas e plugins
 [X] Aula 9 -  Configurações importantes
 [X] Aula 10 - Painel Controle WordPress
-[] Aula 11 - Como Definir paletas de cores do seu site
+[X] Aula 11 - Como Definir paletas de cores do seu site
 [] Aula 12 - Como definir fonte do seu site
 [] Aula 13 - Grande dicas para imagens em sites
 [] Aula 14 - Html basico para Wordpress
