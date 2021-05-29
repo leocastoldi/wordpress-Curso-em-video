@@ -18,7 +18,7 @@
 [X] Aula 11 - Como Definir paletas de cores do seu site
 [X] Aula 12 - Como definir fonte do seu site
 [X] Aula 13 - Grande dicas para imagens em sites
-[] Aula 14 - Html basico para Wordpress
+[X] Aula 14 - Html basico para Wordpress
 [] Aula 15 - Menus no Wordpress
 [] Aula 16a -Topo e Rodapé
 [] Aula 16b - Topo e Rodapé
