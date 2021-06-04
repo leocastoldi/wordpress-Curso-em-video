@@ -22,8 +22,8 @@
 [X] Aula 15 - Menus no Wordpress
     [X]Configurado BoraBora
     [X]Configurado Escudo 
-[] Aula 16a -Topo e Rodapé
-[] Aula 16b - Topo e Rodapé
+[x] Aula 16a -Topo e Rodapé
+[x] Aula 16b - Topo e Rodapé
 [] Aula 17 -  Destaques do site
 [] Aula 18 -  Colunas e Caixas
 [] Aula 19 -  Seção de Cardapio 
